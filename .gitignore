@@ -1,0 +1,10 @@
+# 敏感与生成物
+.env
+*.json
+!cron/*.json
+!package.json
+__pycache__/
+*.pyc
+.DS_Store
+hourly-intel/
+*.dry-run.json
